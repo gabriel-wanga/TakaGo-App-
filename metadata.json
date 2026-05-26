@@ -1,0 +1,10 @@
+{
+  "name": "TakaGo",
+  "description": "A smart waste management platform connecting residents and collectors for scheduled pickups, real-time tracking, digital payments, and recycling rewards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
